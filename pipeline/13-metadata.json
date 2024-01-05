@@ -16,15 +16,14 @@
 				"userProperties": [],
 				"typeProperties": {
 					"dataset": {
-						"referenceName": "logdatacsv",
+						"referenceName": "DelimitedText1",
 						"type": "DatasetReference"
 					},
 					"fieldList": [
-						"columnCount"
+						"childItems"
 					],
 					"storeSettings": {
 						"type": "AzureBlobFSReadSettings",
-						"recursive": true,
 						"enablePartitionDiscovery": false
 					},
 					"formatSettings": {
