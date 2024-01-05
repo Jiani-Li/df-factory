@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "DataFactory20231226"
 		},
+		"AzureSynapseAnalytics1_connectionString": {
+			"value": ""
+		},
+		"Workspace_pooldb_connectionString": {
+			"value": ""
+		},
 		"datalake20231226_service_accountKey": {
 			"value": ""
 		},
